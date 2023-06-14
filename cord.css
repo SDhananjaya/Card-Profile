@@ -1,0 +1,100 @@
+.one{
+    width: 300px;
+    height: 250px;
+    border-style: solid;
+    border: none;
+    box-shadow: 2px 5px 3px rgb(209, 206, 206);
+    display: inline-block;
+}
+.img1{
+    height: 150px;
+width: 300px;
+object-fit: cover;
+object-position: center;
+}
+.two{
+    font-weight: bold;
+    margin-top: 2px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+.mini{
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
+.three{
+    background-color: rgb(15, 125, 236);
+    border:none;
+    border-radius: 2px;
+    padding: 4px 6px;
+    width: 100px;
+    margin-left: 5px;
+
+}
+.first{
+    width: 300px;
+    height: 250px;
+    border-style: solid;
+    border: none;
+    box-shadow: 2px 5px 3px rgb(209, 206, 206);
+    display: inline-block;
+    margin-left: 10px;
+}
+.img2{
+    height: 150px;
+width: 300px;
+object-fit: cover;
+object-position: center;
+}
+.twoo{
+    font-weight: bold;
+    margin-top: 2px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+.minii{
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
+.threee{
+    background-color: rgb(15, 125, 236);
+    border:none;
+    border-radius: 2px;
+    padding: 4px 6px;
+    width: 100px;
+    margin-left: 5px;
+
+}
+.ffirst{
+    width: 300px;
+    height: 250px;
+    border-style: solid;
+    border: none;
+    box-shadow: 2px 5px 3px rgb(209, 206, 206);
+    display: inline-block;
+    margin-left: 10px;
+}
+.img3{
+    height: 150px;
+width: 300px;
+object-fit: cover;
+object-position: center;
+}
+.ttwo{
+    font-weight: bold;
+    margin-top: 2px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+.mmini{
+    margin-top: 3px;
+    margin-bottom: 10px;
+}
+.tthree{
+    background-color: rgb(15, 125, 236);
+    border:none;
+    border-radius: 2px;
+    padding: 4px 6px;
+    width: 100px;
+    margin-left: 5px;
+}
